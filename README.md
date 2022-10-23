@@ -1,7 +1,7 @@
 # NM-GHGs
 **Time to appreciate the significance of non-microbial processes in organic matter decompositon in ecosystems across scales.**
 
-![non-ghgs framework](https://onlinelibrary.wiley.com/cms/asset/fbb951a6-fbd1-4d50-9439-51df91d4339b/gcb13753-fig-0001-m.jpg)
+![non-ghgs framework](https://pbs.twimg.com/media/DBo1vS0UIAEeklf?format=jpg&name=4096x4096)
 
 ## References
 
